@@ -1,0 +1,101 @@
+﻿PROJECTID,NAME,ADDRESS,CITY,STATE,ZIP,MSA,LATITUDE,LONGITUDE,MANAGEMENTCOMPANY,SUBMARKET,QUANTITY,AREAPERUNIT,LEVEL,YEARBUILT,MRG_CLASS,AXIOSUBMNEM,OCCUPANCY_PERCENTAGE,MARKET
+6262,Fairlawn Apartments,15 Bismarck St,Mattapan,MA,2126,"Boston-Cambridge-Newton, MA-NH",42.269836426,-71.10035706,"The Dolben Company, Inc.",BOS_SM8,347,829.780029297,2,1962,BC,BOS_SM8,1.0,BOS
+6266,Princeton Green,740 Farm Rd,Marlborough,MA,1752,"Boston-Cambridge-Newton, MA-NH",42.346252441,-71.51093292,Princeton Properties,BOS_SM10,195,701.299987793,2,1975,BC,BOS_SM10,1.0,BOS
+6278,River Drive Apts,3 River Drive,Danvers,MA,1923,"Boston-Cambridge-Newton, MA-NH",42.552371979,-70.9197464,"The Hamilton Company, Inc.",BOS_SM9,72,650.989990234,3,1967,BC,BOS_SM9,1.0,BOS
+6319,Olde Derby Village,4 Olde Derby Rd,Norwood,MA,2062,"Boston-Cambridge-Newton, MA-NH",42.176685333,-71.22306824,The Simon Companies,BOS_SM7,139,820.039978027,2,1985,BC,BOS_SM7,1.0,BOS
+13897,Metro Marina Bay,7 Seaport Dr,Quincy,MA,2171,"Boston-Cambridge-Newton, MA-NH",42.293685913,-71.02801514,Lincoln Property Company,BOS_SM13,136,934.599975586,6,2002,A,BOS_SM13,1.0,BOS
+16500,Parlmont Park,10 Parlmont Park,North Billerica,MA,1862,"Boston-Cambridge-Newton, MA-NH",42.572109222,-71.27516937,J&C Management,BOS_SM12,216,706.440002441,3,1970,BC,BOS_SM12,1.0,BOS
+21137,Kendall Crossing,20 Woodbine Rd,Natick,MA,1760,"Boston-Cambridge-Newton, MA-NH",42.277915955,-71.38913727,"Franchi Management Company, Inc.",BOS_SM10,354,815,3,1979,BC,BOS_SM10,1.0,BOS
+21152,Town Estates,209 Pleasant St,Melrose,MA,2176,"Boston-Cambridge-Newton, MA-NH",42.44619751,-71.07176971,"Franchi Management Company, Inc.",BOS_SM20,266,677.359985352,3,1970,BC,BOS_SM20,1.0,BOS
+38323,The Tremont at 3rd Avenue I,32 2nd Ave,Burlington,MA,1803,"Boston-Cambridge-Newton, MA-NH",42.485500336,-71.22277832,Nordblom Management,BOS_SM12,162,974.679992676,4,2016,A,BOS_SM12,1.0,BOS
+41487,225 Centre,225 Centre St,Jamaica Plain,MA,2119,"Boston-Cambridge-Newton, MA-NH",42.323600769,-71.09919739,Peabody Properties,BOS_SM8,103,885.200012207,6,2013,A,BOS_SM8,1.0,BOS
+45622,Enterprise Apartments,79 Rantoul St,Beverly,MA,1915,"Boston-Cambridge-Newton, MA-NH",42.545700073,-70.88474274,"The Dolben Company, Inc.",BOS_SM9,45,883.359985352,4,2014,A,BOS_SM9,1.0,BOS
+50011,Loft23,23 Sidney St,Cambridge,MA,2139,"Boston-Cambridge-Newton, MA-NH",42.362304688,-71.10059357,"Forest City Realty Trust, Inc.",BOS_SM5,48,810.849975586,4,2005,A,BOS_SM5,1.0,BOS
+50671,Wyeth Cambridge,120 Rindge Ave,Cambridge,MA,2140,"Boston-Cambridge-Newton, MA-NH",42.392990112,-71.1297226,Lincoln Property Company,BOS_SM5,63,1135.300048828,4,2014,A,BOS_SM5,1.0,BOS
+64200,808-812 Memorial Drive,808 Memorial Dr,Cambridge,MA,2139,"Boston-Cambridge-Newton, MA-NH",42.360599518,-71.11527252,Winn Companies,BOS_SM5,301,801.010009766,23,1969,BC,BOS_SM5,1.0,BOS
+64216,Auburn Court I & II,1 Brookline Pl,Cambridge,MA,2139,"Boston-Cambridge-Newton, MA-NH",42.362468719,-71.10205078,Winn Companies,BOS_SM5,137,1077.630004883,6,1998,A,BOS_SM5,1.0,BOS
+64482,Stonehill Towers,5 Stonehill Dr,Stoneham,MA,2180,"Boston-Cambridge-Newton, MA-NH",42.499565125,-71.10284424,Wakefield Investments,BOS_SM20,204,1202.670043945,6,1964,BC,BOS_SM20,1.0,BOS
+65157,Reservoir Towers,1925 Commonwealth Ave,Boston,MA,2135,"Boston-Cambridge-Newton, MA-NH",42.338798523,-71.15455627,Wingate Management,BOS_SM4,242,786.780029297,16,1979,BC,BOS_SM4,1.0,BOS
+66530,Counting House Lofts 71,27 Jackson St,Lowell,MA,1852,"Boston-Cambridge-Newton, MA-NH",42.642440796,-71.31059265,Winn Companies,BOS_SM12,75,820.039978027,5,2017,BC,BOS_SM12,1.0,BOS
+70099,Latin Academy I,380 Talbot Ave,Dorchester,MA,2124,"Boston-Cambridge-Newton, MA-NH",42.29026413,-71.07015991,Winn Companies,BOS_SM8,58,845.929992676,5,1990,BC,BOS_SM8,1.0,BOS
+70125,Canton Estates Apartments,32 Neponset St Ste 1202,Canton,MA,2021,"Boston-Cambridge-Newton, MA-NH",42.1524086,-71.1498642,Wingate Companies,BOS_SM6,64,802.340026855,3,1983,BC,BOS_SM6,1.0,BOS
+73213,Princeton on Beacon Street,1470 Beacon St,Brookline,MA,2446,"Boston-Cambridge-Newton, MA-NH",42.340579987,-71.12809753,Princeton Properties,BOS_SM4,57,458.25,7,1890,BC,BOS_SM4,1.0,BOS
+73410,Clinton And Prospect Apartments,258 Harvard St,Cambridge,MA,2139,"Boston-Cambridge-Newton, MA-NH",42.368274689,-71.10215759,Wingate Management,BOS_SM5,54,676.849975586,4,1920,BC,BOS_SM5,1.0,BOS
+73923,Gaslight Village,101 Gas Light Dr,South Weymouth,MA,2190,"Boston-Cambridge-Newton, MA-NH",42.170051575,-70.95371246,Bay Management Group,BOS_SM18,400,854.349975586,3,1968,BC,BOS_SM18,1.0,BOS
+74081,Imperial Village,465J Boston Tpke,Shrewsbury,MA,1545,"Worcester, MA-CT",42.277248383,-71.72193909,Privately Managed,BOS_SM10,182,884.289978027,3,1960,BC,BOS_SM10,1.0,BOS
+74539,Ocean Point,2 Ocean Ave,Revere,MA,2151,"Boston-Cambridge-Newton, MA-NH",42.40145874,-70.99108124,Wakefield Investments,BOS_SM15,76,901,7,1980,BC,BOS_SM15,1.0,BOS
+74581,Westgate Apartments,2 Westgate Dr,Woburn,MA,1801,"Boston-Cambridge-Newton, MA-NH",42.499240875,-71.16914368,"The Hamilton Company, Inc.",BOS_SM12,220,825,3,1960,BC,BOS_SM12,1.0,BOS
+74933,Carlton Place,39 Carl St,Lowell,MA,1851,"Boston-Cambridge-Newton, MA-NH",42.628829956,-71.35722351,Princeton Properties,BOS_SM12,48,836.289978027,4,1999,BC,BOS_SM12,1.0,BOS
+74985,Glenbrook Estates,200 Bedford Rd,Woburn,MA,1801,"Boston-Cambridge-Newton, MA-NH",42.479969025,-71.18225861,Wakefield Investments,BOS_SM20,174,1040,2,1976,BC,BOS_SM20,1.0,BOS
+75024,Barker Avenue Apartments,240 Barker Ave,Lowell,MA,1850,"Boston-Cambridge-Newton, MA-NH",42.662818909,-71.30635834,Diversified Funding Inc.,BOS_SM12,71,635.210021973,3,1971,BC,BOS_SM12,1.0,BOS
+75295,Hamilton Village,9 School St,Framingham,MA,1701,"Boston-Cambridge-Newton, MA-NH",42.319549561,-71.39507294,"The Hamilton Company, Inc.",BOS_SM10,181,744.640014648,3,1964,BC,BOS_SM10,1.0,BOS
+75508,Northgate Apartments,237 Lantern Rd,Revere,MA,2151,"Boston-Cambridge-Newton, MA-NH",42.424930573,-71.00945282,"The Dolben Company, Inc.",BOS_SM15,215,951.340026855,4,1978,BC,BOS_SM15,1.0,BOS
+79261,Mill Falls Apartments,51 Osgood St,Methuen,MA,1844,"Boston-Cambridge-Newton, MA-NH",42.72700119,-71.18917084,Housing Management Resources,BOS_SM12,97,1183.75,7,1876,BC,BOS_SM12,1.0,BOS
+82136,Chestnut Place Townhomes,135 Chestnut St,Foxboro,MA,2035,"Boston-Cambridge-Newton, MA-NH",42.071418762,-71.23703003,,BOS_SM11,61,994.460021973,2,1965,A,BOS_SM11,1.0,BOS
+84860,Braintree Village,2 McCusker Dr,Braintree,MA,2184,"Boston-Cambridge-Newton, MA-NH",42.219669342,-70.98201752,Peabody Properties,BOS_SM13,324,1131.109985352,3,1974,BC,BOS_SM13,1.0,BOS
+84892,Geraghty,45 Sierra Rd,Hyde Park,MA,2136,"Boston-Cambridge-Newton, MA-NH",42.236858368,-71.12673187,Geraghty Associates,BOS_SM8,310,618.710021973,3,1965,BC,BOS_SM8,1.0,BOS
+85553,Davis Commons,165 Carl Ave,Brockton,MA,2302,"Boston-Cambridge-Newton, MA-NH",42.05915451,-70.99806976,First Realty Management,BOS_SM16,200,855.700012207,2,1993,BC,BOS_SM16,1.0,BOS
+85964,Lord Chesterfield,10 Greenview St,Framingham,MA,1701,"Boston-Cambridge-Newton, MA-NH",42.30078125,-71.40322876,,BOS_SM10,250,812,3,1976,BC,BOS_SM10,1.0,BOS
+86796,Mercantile Wharf Building,111 Atlantic Ave,Boston,MA,2110,"Boston-Cambridge-Newton, MA-NH",42.361431122,-71.05264282,Peabody Properties,BOS_SM3,122,978.690002441,7,1976,BC,BOS_SM3,1.0,BOS
+86968,Charlesbank Garden,56 Charles River Rd,Waltham,MA,2453,"Boston-Cambridge-Newton, MA-NH",42.357334137,-71.2600708,Privately Managed,BOS_SM19,209,923.440002441,3,1968,BC,BOS_SM19,1.0,BOS
+19211,Vinnin Square,1 Carol Way,Salem,MA,1970,"Boston-Cambridge-Newton, MA-NH",42.486492157,-70.90329742,Taymil Partners,BOS_SM9,148,1356.699951172,5,2002,A,BOS_SM9,0.993,BOS
+3082,Woodview at Randolph,33 Highland Glen Dr,Randolph,MA,2368,"Boston-Cambridge-Newton, MA-NH",42.161872864,-71.05018616,"The Dolben Company, Inc.",BOS_SM16,310,788.5,3,1973,BC,BOS_SM16,0.99,BOS
+7678,Ridgecrest Village,5118 Washington St,Boston,MA,2132,"Boston-Cambridge-Newton, MA-NH",42.263175964,-71.15505981,Chestnut Hill Realty,BOS_SM8,415,872.869995117,2,1999,BC,BOS_SM8,0.99,BOS
+10026,Dexter Park,175 Freeman Suite 104,Brookline,MA,2446,"Boston-Cambridge-Newton, MA-NH",42.347351074,-71.11702728,"The Hamilton Company, Inc.",BOS_SM4,409,831.770019531,9,1974,A,BOS_SM4,0.99,BOS
+13013,Vantage Pointe Apartments,100  Vantage Ter,Swampscott,MA,1907,"Boston-Cambridge-Newton, MA-NH",42.483131409,-70.90924835,Aimco,BOS_SM9,96,1297.569946289,4,1989,A,BOS_SM9,0.99,BOS
+16509,Middlesex Crossing,158 Concord Rd,Billerica,MA,1821,"Boston-Cambridge-Newton, MA-NH",42.547798157,-71.27803802,Home Properties,BOS_SM12,252,735,3,1975,BC,BOS_SM12,0.99,BOS
+17004,Spring Hill Commons,421 Great Rd Ste 2,Acton,MA,1720,"Boston-Cambridge-Newton, MA-NH",42.511013031,-71.42189026,UNIVERSAL MANAGEMENT,BOS_SM1,321,701.929992676,3,1975,BC,BOS_SM1,0.99,BOS
+27263,Church Park,221 Massachusetts Ave,Boston,MA,2115,"Boston-Cambridge-Newton, MA-NH",42.344676971,-71.0864563,Boyd/Smith Inc.,BOS_SM17,508,780.729980469,12,1973,A,BOS_SM17,0.99,BOS
+49394,Navy Yard 33,33 3rd Ave,Charlestown,MA,2129,"Boston-Cambridge-Newton, MA-NH",42.375621796,-71.0548172,Longwood Group,BOS_SM5,47,751.640014648,3,1900,BC,BOS_SM5,0.99,BOS
+64206,Chroma,240 Sidney St,Cambridge,MA,2139,"Boston-Cambridge-Newton, MA-NH",42.356868744,-71.1059494,NATIONAL DEVELOPMENT,BOS_SM5,96,804.020019531,4,2015,A,BOS_SM5,0.99,BOS
+64439,Hillside Gardens,101 Hill St,Stoneham,MA,2180,"Boston-Cambridge-Newton, MA-NH",42.475589752,-71.11009216,Stone Hill Realty Association,BOS_SM20,192,1050,3,1980,BC,BOS_SM20,0.99,BOS
+67734,Conway Court,400 Georgetowne Dr,Hyde Park,MA,2136,"Boston-Cambridge-Newton, MA-NH",42.287799835,-71.13021088,Beacon Communities,BOS_SM8,28,597.570007324,3,1899,BC,BOS_SM8,0.99,BOS
+73859,Terrace Estates,152 Shore Dr,Peabody,MA,1960,"Boston-Cambridge-Newton, MA-NH",42.535449982,-70.94407654,"Brickpoint Properties, Inc.",BOS_SM9,521,862.58001709,3,1962,BC,BOS_SM9,0.99,BOS
+74926,Westford Park Apartments,1001 Westford St,Lowell,MA,1851,"Boston-Cambridge-Newton, MA-NH",42.62953186,-71.35119629,Princeton Properties,BOS_SM12,150,789.130004883,3,1985,BC,BOS_SM12,0.99,BOS
+75539,Stone Bridge Apartments,38 Dean St,Norwood,MA,2062,"Boston-Cambridge-Newton, MA-NH",42.180709839,-71.20214844,"The Hamilton Company, Inc.",BOS_SM7,69,804.349975586,3,1983,BC,BOS_SM7,0.99,BOS
+77127,Cohannet Village,203 Winthrop St,Taunton,MA,2780,"Providence-Warwick, RI-MA",41.892230988,-71.11052704,"The Hamilton Company, Inc.",BOS_SM11,72,875.75,2,1970,BC,BOS_SM11,0.99,BOS
+78460,Stoney Brook Village,3 Stoneybrook Dr,Millis,MA,2054,"Boston-Cambridge-Newton, MA-NH",42.168041229,-71.35040283,,BOS_SM11,202,925.429992676,3,1971,A,BOS_SM11,0.99,BOS
+83342,Eastbay at Weymouthport,84 Broad Reach,North Weymouth,MA,2191,"Boston-Cambridge-Newton, MA-NH",42.256408691,-70.92321777,,BOS_SM18,72,1169,6,1986,BC,BOS_SM18,0.99,BOS
+84729,Princeton Crossing,12 Heritage Dr,Salem,MA,1970,"Boston-Cambridge-Newton, MA-NH",42.513248444,-70.91014862,Princeton Properties,BOS_SM9,358,674.719970703,3,1975,BC,BOS_SM9,0.99,BOS
+87085,Pine Brook Place,37 Woodcock Ave,Haverhill,MA,1832,"Boston-Cambridge-Newton, MA-NH",42.781730652,-71.09546661,"The Dolben Company, Inc.",BOS_SM12,240,697.630004883,3,1971,BC,BOS_SM12,0.99,BOS
+42881,Lenox Farms,550 Liberty St,Braintree,MA,2184,"Boston-Cambridge-Newton, MA-NH",42.202739716,-70.98474121,"UDR, Inc",BOS_SM13,338,1456.579956055,2,2008,A,BOS_SM13,0.988,BOS
+68009,Millwood Apartments,803 Haverhill St,Rowley,MA,1969,"Boston-Cambridge-Newton, MA-NH",42.704544067,-70.94034576,,BOS_SM9,99,850,3,1974,BC,BOS_SM9,0.988,BOS
+75013,Pondsview Apartments,13 Kenmar Dr,Billerica,MA,1821,"Boston-Cambridge-Newton, MA-NH",42.550140381,-71.26891327,Privately Managed,BOS_SM12,172,736.340026855,3,1983,BC,BOS_SM12,0.988,BOS
+59905,Mystic Place,3610 Mystic Valley Pkwy,Medford,MA,2155,"Boston-Cambridge-Newton, MA-NH",42.4099617,-71.09515381,Winn Companies,BOS_SM15,465,852.969970703,14,1976,BC,BOS_SM15,0.987,BOS
+41062,Whitney Towers,275 Main St,Watertown,MA,2472,"Boston-Cambridge-Newton, MA-NH",42.3695755,-71.18975067,Eleanor V. Pannesi Jr.,BOS_SM19,92,868.909973145,9,1983,BC,BOS_SM19,0.986,BOS
+42335,Waverly Apartments,9 Bronsdon St,Brighton,MA,2135,"Boston-Cambridge-Newton, MA-NH",42.359161377,-71.14425659,Aimco,BOS_SM4,103,925.239990234,3,1975,A,BOS_SM4,0.986,BOS
+66757,The Chase at Overlook Ridge II,4 Stone Lane,Malden,MA,2148,"Boston-Cambridge-Newton, MA-NH",42.440410614,-71.02610779,Roseland Property Management,BOS_SM15,292,886.210021973,4,2017,A,BOS_SM15,0.986,BOS
+67982,Mariner`s Hill,2093 Ocean St,Marshfield,MA,2050,"Boston-Cambridge-Newton, MA-NH",42.090824127,-70.71588898,Beacon Communities,BOS_SM18,67,987.309997559,2,1989,A,BOS_SM18,0.986,BOS
+82138,Pine Tree Garden,101 Chestnut St,Foxboro,MA,2035,"Boston-Cambridge-Newton, MA-NH",42.074298859,-71.24347687,MAYFAIR PROPERTIES,BOS_SM11,100,925,2,1968,BC,BOS_SM11,0.986,BOS
+21121,The Devonshire,1 Devonshire Pl,Boston,MA,2109,"Boston-Cambridge-Newton, MA-NH",42.358600616,-71.05766296,Devonshire Real Estate and Asset Management,BOS_SM3,480,850.599975586,42,1983,A,BOS_SM3,0.984,BOS
+38371,Bell Watertown,200 Waltham St,Watertown,MA,2472,"Boston-Cambridge-Newton, MA-NH",42.370738983,-71.20916748,Bell Partners,BOS_SM19,139,1006.570007324,4,2014,A,BOS_SM19,0.984,BOS
+7691,Brook Village East,319 E Main St # A8,Marlborough,MA,1752,"Boston-Cambridge-Newton, MA-NH",42.352046967,-71.5319519,Campus Apartments,BOS_SM10,224,937.5,2,1968,BC,BOS_SM10,0.983,BOS
+42878,Lodge at Foxborough,400 Foxboro Blvd,Foxborough,MA,2035,"Boston-Cambridge-Newton, MA-NH",42.047031403,-71.23761749,"UDR, Inc",BOS_SM6,250,1047.979980469,3,2009,A,BOS_SM6,0.982,BOS
+21643,Heritage at Bedford Springs,100 Thompson Farm,Bedford,MA,1730,"Boston-Cambridge-Newton, MA-NH",42.510604858,-71.23780823,"The Dolben Company, Inc.",BOS_SM12,125,1095.829956055,4,2006,A,BOS_SM12,0.981,BOS
+42251,Metro at Wilmington Station,10 Burlington Ave,Wilmington,MA,1887,"Boston-Cambridge-Newton, MA-NH",42.546451569,-71.17357635,"The Dolben Company, Inc.",BOS_SM12,78,1080.969970703,3,2013,A,BOS_SM12,0.981,BOS
+319,The Commons at Haynes Farm,100 Arbor Dr,Shrewsbury,MA,1545,"Worcester, MA-CT",42.281475067,-71.68677521,Lighthouse Property Management,BOS_SM10,302,879.700012207,3,1991,BC,BOS_SM10,0.98,BOS
+10025,Bell Marlborough,20 Applebriar Ln,Marlborough,MA,1752,"Boston-Cambridge-Newton, MA-NH",42.336219788,-71.59767151,Bell Partners,BOS_SM10,164,1007.380004883,3,1989,A,BOS_SM10,0.98,BOS
+13150,Gardencrest Apartments,20 Middlesex Cir,Waltham,MA,2452,"Boston-Cambridge-Newton, MA-NH",42.380264282,-71.22432709,Harbor Group Management,BOS_SM19,695,989.940002441,3,1948,BC,BOS_SM19,0.98,BOS
+13780,The Townhomes of Beverly,201 Broughton Dr,Beverly,MA,1915,"Boston-Cambridge-Newton, MA-NH",42.571678162,-70.87354279,Lincoln Property Company,BOS_SM9,204,796.469970703,2,1972,A,BOS_SM9,0.98,BOS
+13892,The Highlands At Faxon Woods,2001 Falls Blvd,Quincy,MA,2169,"Boston-Cambridge-Newton, MA-NH",42.236595154,-70.99202728,Northland Investment Corporation,BOS_SM13,196,923.640014648,4,2001,BC,BOS_SM13,0.98,BOS
+16168,Saunders Crossing,11 Diamond St,Lawrence,MA,1843,"Boston-Cambridge-Newton, MA-NH",42.689491272,-71.17315674,"The Dolben Company, Inc.",BOS_SM12,222,851.489990234,3,1972,BC,BOS_SM12,0.98,BOS
+17488,The Ridge,55 Ridge Ln,Waltham,MA,2452,"Boston-Cambridge-Newton, MA-NH",42.406898499,-71.23599243,Lincoln Property Company,BOS_SM19,198,973.799987793,4,2005,BC,BOS_SM19,0.98,BOS
+19336,West End Apartments - Asteria,4 Emerson Pl,Boston,MA,2114,"Boston-Cambridge-Newton, MA-NH",42.364871979,-71.06764221,EQUITY RESIDENTIAL,BOS_SM3,170,1036.459960938,11,2008,BC,BOS_SM3,0.98,BOS
+21134,Lynnfield Commons,375 Broadway,Lynnfield,MA,1940,"Boston-Cambridge-Newton, MA-NH",42.51240921,-71.00624847,Corcoran Management,BOS_SM20,200,1022.719970703,5,2009,BC,BOS_SM20,0.98,BOS
+21138,Cloverleaf Apartments,325 Speen St,Natick,MA,1760,"Boston-Cambridge-Newton, MA-NH",42.302223206,-71.37866974,Forest Properties,BOS_SM10,183,851.489990234,10,2008,A,BOS_SM10,0.98,BOS
+21147,Washington Crossing,55 Cedar St,Woburn,MA,1801,"Boston-Cambridge-Newton, MA-NH",42.497764587,-71.12207031,Bozzuto Management,BOS_SM20,202,1065.050048828,4,2003,A,BOS_SM20,0.98,BOS
+25913,Neponset Landing,2 Hancock St,Quincy,MA,2171,"Boston-Cambridge-Newton, MA-NH",42.283203125,-71.03658295,Greystar,BOS_SM13,252,953.219970703,12,2007,A,BOS_SM13,0.98,BOS
+25931,Canton Woods,1 Windsor Woods Ln,Canton,MA,2021,"Boston-Cambridge-Newton, MA-NH",42.14617157,-71.10647583,Lincoln Property Company,BOS_SM6,166,975.780029297,4,2007,A,BOS_SM6,0.98,BOS
+33991,Quarrystone At Overlook Ridge,10 Overlook Ridge Dr,Malden,MA,2148,"Boston-Cambridge-Newton, MA-NH",42.438453674,-71.02116394,Winn Companies,BOS_SM15,251,1110.150024414,6,2008,BC,BOS_SM15,0.98,BOS
+37285,100 Pier 4,100 Pier 4 Blvd.,Boston,MA,2210,"Boston-Cambridge-Newton, MA-NH",42.351337433,-71.04316711,"UDR, Inc",BOS_SM3,369,804.349975586,22,2015,A,BOS_SM3,0.98,BOS
+40717,Tent City,130 Dartmouth St,Boston,MA,2116,"Boston-Cambridge-Newton, MA-NH",42.346435547,-71.07565308,Maloney Properties Inc,BOS_SM17,269,874.380004883,12,1987,A,BOS_SM17,0.98,BOS
+41685,Rosemont Square II,2 Chestnut W,Randolph,MA,2368,"Boston-Cambridge-Newton, MA-NH",42.180000305,-71.07221985,Greystar,BOS_SM16,90,735,3,2012,BC,BOS_SM16,0.98,BOS
+42826,Captain Parker Arms,50 Grove,Arlington,MA,2476,"Boston-Cambridge-Newton, MA-NH",42.439590454,-71.23203278,"The Hamilton Company, Inc.",BOS_SM2,94,943.400024414,2,1966,BC,BOS_SM2,0.98,BOS
+42873,Park 87 Apartments,87 New St,Cambridge,MA,2138,"Boston-Cambridge-Newton, MA-NH",42.389713287,-71.13950348,Acorn Holdings,BOS_SM5,56,929.140014648,4,2010,BC,BOS_SM5,0.98,BOS
+42926,Westwoods,24 Bridle Path Cir,Randolph,MA,2368,"Boston-Cambridge-Newton, MA-NH",42.16312027,-71.05017853,Connecticut Management,BOS_SM16,35,794.570007324,3,1978,BC,BOS_SM16,0.98,BOS
+43541,Liberty Place,100 Liberty Pl,Randolph,MA,2368,"Boston-Cambridge-Newton, MA-NH",42.175952911,-71.03759766,Connecticut Management,BOS_SM16,107,923.08001709,3,1988,A,BOS_SM16,0.98,BOS
+45496,Boott Mills West,130 John St,Lowell,MA,1852,"Boston-Cambridge-Newton, MA-NH",42.647758484,-71.30745697,Winn Companies,BOS_SM12,78,1040.459960938,6,2013,A,BOS_SM12,0.98,BOS
+45603,30 Haven St in Reading,30 Haven St,Reading,MA,1867,"Boston-Cambridge-Newton, MA-NH",42.522491455,-71.10610962,Wingate Companies,BOS_SM20,53,984.659973145,4,2012,BC,BOS_SM20,0.98,BOS
+45613,Fenway Diamond Apartments ,9 Miner St,Boston,MA,2215,"Boston-Cambridge-Newton, MA-NH",42.346408844,-71.10323334,Chestnut Hill Realty,BOS_SM4,49,780.729980469,5,2015,A,BOS_SM4,0.98,BOS
+47468,Exchange Street Apartments,100 Exchange St,Malden,MA,2148,"Boston-Cambridge-Newton, MA-NH",42.426319122,-71.07136536,COMBINED PROPERTIES ,BOS_SM15,210,850.08001709,6,2017,A,BOS_SM15,0.98,BOS
+51343,Rosemont Square I,2 Chestnut W,Randolph,MA,2368,"Boston-Cambridge-Newton, MA-NH",42.180198669,-71.06923676,Greystar,BOS_SM16,417,983.679992676,3,1975,A,BOS_SM16,0.98,BOS
